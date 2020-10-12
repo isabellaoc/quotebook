@@ -1,8 +1,4 @@
 make it cool - me
-<<<<<<< HEAD
-=======
 
 you go girl - also me 
 
-hello world
->>>>>>> personal_quotes
